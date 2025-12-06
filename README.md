@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Viktoria!
 
-<!--
-**tuzovavika2007-code/tuzovavika2007-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/@vika_tuzova)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](gmailto:tuzovavika2007@gmail.com)
 
-Here are some ideas to get you started:
+## 🚀 Languages and Tools I Use:
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📊 GitHub Stats:
+
+[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
