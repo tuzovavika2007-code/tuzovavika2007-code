@@ -5,13 +5,8 @@
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](gmailto:tuzovavika2007@gmail.com)
 
 ## 🚀 Languages and Tools I Use:
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-
-
-## 📊 GitHub Stats:
-
-[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/RomanSnitko/RomanSnitko/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
